@@ -433,7 +433,7 @@ Ega olnud pikkuselta
 
 Kuskil üle kümne sülla.
 
-See′ p see Kalevite seljas
+see′p see Kalevite seljas
 
 Kantud lauakoormakene,
 
@@ -1305,7 +1305,7 @@ Sunnib mõõka surmamaie,
 
 Vaga verda valamaie!
 
-See′ p see sõjasellikesta,
+see′p see sõjasellikesta,
 
 Kallist rauda kurvasteli.
 
@@ -1479,15 +1479,15 @@ Kolmas paksu pähklimetsa.
 
 Mis oli kulda kuusemetsa,
 
-See′ p see meie meeste metsa;
+see′p see meie meeste metsa;
 
 Mis oli laia laanemetsa,
 
-See′ p see meie naiste metsa;
+see′p see meie naiste metsa;
 
 Mis oli paksu pähklimetsa,
 
-See′ p see piiga peidupaika,
+see′p see piiga peidupaika,
 
 Vaestelaste varjutuba,
 

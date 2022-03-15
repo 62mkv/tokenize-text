@@ -35,7 +35,7 @@ Kõigist kuulsam rammukatse,
 
 Võimsam võitlemise mängi
 
-P õ r g u peremehe talust.
+Põrgu peremehe talust.
 
 Mets ja mägi märkasivad,
 
@@ -97,7 +97,7 @@ Enne kui nad selget otsust
 
 Võitlemise võidul saivad.
 
-S a r v i k-taat küll salamahti
+Sarvik-taat küll salamahti
 
 Katsus kiusamise kombel
 
@@ -513,7 +513,7 @@ Seal, kust Kalev julgel sammul
 
 Allailma oli läinud.
 
-A l e v ootas armuhoolel,
+Alev ootas armuhoolel,
 
 Ootas hommikul ja õhtul,
 
@@ -639,7 +639,7 @@ Käiki temal kinnitanud,
 
 Viimaks võitlemise võidul
 
-S a r v i k saanud sidemesse,
+Sarvik saanud sidemesse,
 
 Kindla ahelate kütke.
 
@@ -813,7 +813,7 @@ Pane kihlad kottidesse,
 
 Meelitused märssidesse,
 
-Mine K u n g l a kosimaie,
+Mine Kungla kosimaie,
 
 Noorikuda nõudemaie!
 
@@ -1001,7 +1001,7 @@ Korjasin ma kuulutusi,
 
 Hõbedasi ilmutusi:
 
-S i u r u -lindu, Taara tütar,
+Siuru-lindu, Taara tütar,
 
 Siuru-lindu, sinisiiba,
 
@@ -1023,7 +1023,7 @@ Udusulgi uuendada,
 
 Verisulgi valmistada.
 
-Aga U k u asuteli,
+Aga Uku   asuteli,
 
 Vanaisa valmisteli
 
@@ -1163,7 +1163,7 @@ Kes läeks neidu päästemaie,
 
 Käharpäida kuulamaie?"
 
-T a a r a mõistis, kohe kostis:
+Taara mõistis, kohe kostis:
 
 "Lenda, tütar, liugle, tütar!
 
@@ -1197,7 +1197,7 @@ Mõdukannud meeste käessa,
 
 Õnnel mehed hõiskasivad.
 
-A l e v i p o e g, poisikene,
+Alevipoeg, poisikene,
 
 Laskis laulu lendamaie:
 
@@ -1367,7 +1367,7 @@ Mõdukannud meeste käessa,
 
 Õnnel mehed hõiskasivad.
 
-S u l e v i p o e g, poisikene,
+Sulevipoeg, poisikene,
 
 Laskis laulu lendamaie:
 
@@ -1663,9 +1663,9 @@ Neiud appi hüüdemaie,
 
 Pikil keelil palumaie:
 
-"Tule appi, H ar j u poissi!
+"Tule appi, Harju poissi!
 
-Tule päästma, P ä r n u poissi!"
+Tule päästma, Pärnu poissi!"
 
 Aga ei kuulnud Harju poissi
 
@@ -1835,7 +1835,7 @@ Kivikoja kummi alta
 
 Arulista oled leidnud?"
 
-V a r r a k mõistis, kostis vastu:
+Varrak mõistis, kostis vastu:
 
 "Leidsin kirjalehekesi,
 
@@ -1901,9 +1901,9 @@ Tühja jutu tükikesi
 
 Lehtedesta üles leida."
 
-S u l e v i p o e g sõitlemaie,
+Sulevipoeg sõitlemaie,
 
-O l e v i po e g palumaie:
+Olevipoeg palumaie:
 
 "Lase läbi katsudella,
 

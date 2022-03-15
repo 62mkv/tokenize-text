@@ -251,7 +251,7 @@ Kullakatlaid kergitada,
 
 Salavara maasta võtta.
 
-See′ p see mees veel sündimata,
+see′p see mees veel sündimata,
 
 Õnnelapsi ilmumata,
 
@@ -1253,7 +1253,7 @@ Juhtus õnne juhatusel,
 
 Salasoovikute sõudel
 
-K o i v a j õ e kalda kohta
+Koivajõe kalda kohta
 
 Peidupaika leidemaie,
 
@@ -1689,7 +1689,7 @@ Puutus Kalevite poega
 
 Kääpa jõe kallastelle,
 
-Kuhu enne P i h k v a käigil,
+Kuhu enne Pihkva käigil,
 
 Õnneaja õitsemisel
 
@@ -1733,7 +1733,7 @@ Sajatanud sügavasse:
 
 Jalakanda pistma jõkke,
 
-Kes sind e n n e i s e k a n n u d:
+Kes sind enneisekannud:
 
 Siisap, mõõka, sõbrakene,
 
@@ -1745,7 +1745,7 @@ Sundis mõõka kätte maksma
 
 Peipsi soolasortsijalle,
 
-Kes see mõõga sii a kannud,
+Kes see mõõga siia kannud,
 
 Vargakäpil viinud vette.
 
@@ -2103,7 +2103,7 @@ Künkaida kõikumaie,
 
 Mere valgelt vahutama;
 
-M a n a käsi hoiab meesta,
+Mana käsi hoiab meesta,
 
 Et ei vahti väravasta,
 

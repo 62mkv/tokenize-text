@@ -1701,7 +1701,7 @@ Mis ma leidsin kaare alta?
 
 Leidsin kotka kaare alta;
 
-See′ p see kodu kasvand kotkas,
+See′p see kodu kasvand kotkas,
 
 Päeval hautud päevapoega,
 
@@ -1799,7 +1799,7 @@ Kahel haarul üle mere.
 
 Teine haaru Soome randa,
 
-See′ p see kuulus Soome silda.
+see′p see kuulus Soome silda.
 
 Ladvast tehti uhkeid laevu,
 

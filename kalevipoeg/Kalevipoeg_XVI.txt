@@ -149,7 +149,7 @@ Võrtsu järvest vankumata,
 
 Kaiu järvest kartemata,
 
-L ä ä n e m e r e s t langemata
+Läänemerest langemata
 
 Koormaga ju läbi käinud;
 
@@ -165,7 +165,7 @@ Ahti poja haudasida?
 
 Peipsi järv mul puusast saadik,
 
-V õ r t s j ä r v mulle vöödest saadik,
+Võrtsjärv mulle vöödest saadik,
 
 Musta järv mul maost saadik,
 
@@ -219,7 +219,7 @@ Jälgedelle juhatavad."
 
 Siisap sahkas Oleville:
 
-"Võta, O l e v, vennikene,
+"Võta, Olev, vennikene,
 
 Linnameister, mõistetarka,
 
@@ -295,7 +295,7 @@ Jäta jätmed raiskamata:
 
 Jätmetest saab Järva linna,
 
-Riismetest saab R i i a linna,
+Riismetest saab Riia linna,
 
 Laastudest saab Lääne linna,
 
@@ -399,7 +399,7 @@ Tõukaks maha suure tamme,
 
 Pillutaks ladva pilvesta.
 
-Toodi mehi T u r j a m a a l t a,
+Toodi mehi Turjamaalta,
 
 Sõnatarku Soomemaalta.
 
@@ -485,7 +485,7 @@ Laevamastid hõbedasta,
 
 Hõbekeedest laevaköied.
 
-"L e n n u k" pandi laeval′ nimeks,
+"Lennuk" pandi laeval′ nimeks,
 
 Et ta lendes lõhkus laineid.
 
@@ -871,7 +871,7 @@ Laevas köitel kalda′ asse.
 
 See ei olnud Soome serva
 
-Ega tuttav T u r j a randa,
+Ega tuttav Turja randa,
 
 Ei ka enne käidud kohta.
 
@@ -885,7 +885,7 @@ Pääsukesed pajatasid,
 
 Vana vares vastanekse:
 
-"See on lahja L a p u r a n d a,
+"See on lahja Lapuranda,
 
 Kehvaliste kaldakene."
 
@@ -1247,7 +1247,7 @@ Meeleheaks veel peale panna.
 
 Lapu tarka laulemaie,
 
-V a r r a k nõnda vastamaie:
+Varrak nõnda vastamaie:
 
 "Sündku sinu soovimine,
 
@@ -1301,7 +1301,7 @@ Koormat koormakandijaga.
 
 Lapu tarka võttis tündri,
 
-Võttis V a r r a k vaadikese,
+Võttis Varrak vaadikese,
 
 Kattis punakaleviga
 
@@ -1375,7 +1375,7 @@ Palju aega purjetanud
 
 Põhja piiri pöörusella,
 
-Sealap S ä d e m e t e s a a r e
+Sealap Sädemetesaare
 
 Tulisambad tõusemaie,
 
@@ -1385,11 +1385,11 @@ Kalevipoeg kippumaie
 
 Sädemesaart silmamaie;
 
-V a r r a k vastu vaidlemaie,
+Varrak vastu vaidlemaie,
 
 Koledat teed keelamaie.
 
-S u l e v i p o e g sõnaldama:
+Sulevipoeg sõnaldama:
 
 "Laske minda minemaie
 
@@ -1459,7 +1459,7 @@ Kõrbe hiuksed, kulmukarvad.
 
 Sulevipoeg pajatama:
 
-"K u r a t võtku tuleküngast,
+"Kurat võtku tuleküngast,
 
 Kust ei kasu kellelegi!
 
@@ -1677,7 +1677,7 @@ Katsub külakaevudesta,
 
 Kivikildude keskelta."
 
-H i i g l a t a r k a tunnistama:
+Hiiglatarka tunnistama:
 
 "Mõistke, mõistke, mehikesed,
 
@@ -1735,7 +1735,7 @@ Tulda taevast puistanekse,
 
 Tuli Hiigla tütar noori
 
-L e n n u s sammul laeva poole,
+Lennus sammul laeva poole,
 
 Kärinaga merekalda;
 
@@ -1779,7 +1779,7 @@ Jää seal kattis jälgesida,
 
 Kõrge jää küngastesta
 
-Lõikas "L e n n u k" lustilikult
+Lõikas "Lennuk" lustilikult
 
 Purjetelles põhjateeda.
 
@@ -1817,7 +1817,7 @@ Kuu ei tahtnud kaasa tulla,
 
 Päike läinud ammu peitu;
 
-Armuanniks pannud U k u
+Armuanniks pannud Uku
 
 Virmalised vehklemaie."
 
@@ -2041,7 +2041,7 @@ Kus meid tundvad kodukoerad,
 
 Tuttavamad teretavad!"
 
-V a r r a k kohe küsimaie:
+Varrak kohe küsimaie:
 
 "Vennike, kes veovaeva,
 
@@ -2073,7 +2073,7 @@ Lõhkus Kalevite laeva
 
 Vahus veele vagusida.
 
-Paati veeres V i r u poole,
+Paati veeres Viru poole,
 
 Laeva lustil lõuna alla.
 
@@ -2189,7 +2189,7 @@ Tõelikke tunnistähti,
 
 Et ei suurel ilmal otsa,
 
-T a a r a tarkusel ei rada
+Taara tarkusel ei rada
 
 Kusagille kinnitatud,
 
@@ -2221,7 +2221,7 @@ Veerenegu võõramaale
 
 Suurt maailma silmamaie,
 
-T a a r a tarkust tunnistama,
+Taara tarkust tunnistama,
 
 Jumalikke imeasju
 

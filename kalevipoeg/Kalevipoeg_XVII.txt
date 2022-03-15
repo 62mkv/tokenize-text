@@ -101,7 +101,7 @@ Kippus sõda kurnamaie,
 
 Vaenuvanker vaotamaie.
 
-V i r u randa veerenekse
+Viru randa veerenekse
 
 Sõjalasi sadasida,
 
@@ -179,9 +179,9 @@ Vaenuteeda tallavada,
 
 Pidi tõesti tunnistama:
 
-"See′ p see poissi paistab palju,
+"see′p see poissi paistab palju,
 
-See′ p see meesi maksab kallist!
+see′p see meesi maksab kallist!
 
 Hobu alla hõbedane,
 
@@ -229,13 +229,13 @@ Sinna mäe mängiteleb,
 
 Kõrgendiku kasvateleb.
 
-Sõidab S o o m e silda mööda
+Sõidab Soome silda mööda
 
 Raksatelles rahateeda;
 
-H a r j u paest põrand paugub,
+Harju paest põrand paugub,
 
-V i r u tee aga väriseb.
+Viru tee aga väriseb.
 
 Hobu alla kui see ahju,
 
@@ -269,13 +269,13 @@ Rästas paksust rägastikust,
 
 Laululinnud lepikusta!
 
-V i r u neiud vaatasivad,
+Viru neiud vaatasivad,
 
-Pilusilmil J ä r v a piigad,
+Pilusilmil Järva piigad,
 
-L ä ä n e neiud nuttelesid,
+Lääne neiud nuttelesid,
 
-H a r j u armsad ohkelesid:
+Harju armsad ohkelesid:
 
 "Oleks see meesi meie jaoksi!
 
@@ -329,7 +329,7 @@ Kalevite poja käigist,
 
 Sõjateele sõitemisest.
 
-V i r u laiadel väljadel
+Viru laiadel väljadel
 
 Seisid seltsis sõjalased,
 
@@ -353,15 +353,15 @@ Rahva vara riisumaie,
 
 Tugevamaid tappemaie.
 
-S u l e v i p o e g sõudis sõtta,
+Sulevipoeg sõudis sõtta,
 
-A l e v i p o e g ajas vaenu,
+Alevipoeg ajas vaenu,
 
 Ajas vaenu veere peale,
 
-O l e v i p o e g otsa peale.
+Olevipoeg otsa peale.
 
-K a l e v i p o e g, kange meesi,
+Kalevipoeg, kange meesi,
 
 Sõitis hobu sadulassa
 
@@ -409,7 +409,7 @@ Mitmes kohas kasvid mäeksi
 
 Surnurünkad sambelilla;
 
-A s s a m a l l a s hangusivad
+Assamallas hangusivad
 
 Kümme tuhat kooljakeha.
 
@@ -709,7 +709,7 @@ Pehmitelles poegadelle,
 
 Räitan roaksi eneselle."
 
-S u l e v i p o e g pajatama:
+Sulevipoeg pajatama:
 
 "Viska peale võõra võrra,
 
@@ -813,13 +813,13 @@ Väsimusta venitama,
 
 Seljasooni sirutama.
 
-S u l e v i p o e g, sugulane,
+Sulevipoeg, sugulane,
 
 Käänas maha külitie
 
 Põõsa varju põõnutama.
 
-O l e v i p o e g, hoonetarka,
+Olevipoeg, hoonetarka,
 
 Kõrge torni kasvataja,
 
@@ -855,7 +855,7 @@ Ketras neljandama keeru
 
 Lõngadelle lisanduseks.
 
-A l e v i p o e g üksipäini
+Alevipoeg üksipäini
 
 Istus ärksalt tule ääres,
 
@@ -977,7 +977,7 @@ Ketras neljandama keeru
 
 Lõngadelle lisanduseks.
 
-O l e v i p o e g üksipäini
+Olevipoeg üksipäini
 
 Istus ärksalt tule ääres,
 
@@ -1017,7 +1017,7 @@ Maitseneda leememärga,
 
 Kapsakeedust katsuella!"
 
-O l e v i p o e g mõistis kohe,
+Olevipoeg mõistis kohe,
 
 Pajateli pilkamisi:
 
@@ -1101,7 +1101,7 @@ Vanaeite, kortsus palgeil,
 
 Lõngadelle lisanduseks.
 
-S u l e v i p o e g üksipäini
+Sulevipoeg üksipäini
 
 Istus ärksalt tule ääres,
 
@@ -1141,7 +1141,7 @@ Maitseneda leememärga,
 
 Kapsakeedust katsudella!"
 
-S u l e v i p o e g mõistis palve,
+Sulevipoeg mõistis palve,
 
 Pajateli pilkamisi:
 
@@ -1223,7 +1223,7 @@ Ketras neljandama keeru
 
 Lõngadelle lisanduseks.
 
-K a l e v i p o e g üksipäini
+Kalevipoeg üksipäini
 
 Istus ärksalt tule ääres,
 

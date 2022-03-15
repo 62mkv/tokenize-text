@@ -135,7 +135,7 @@ Metsa paksust põõsastikust
 
 Puges kangelase poega
 
-Virgult läbi V i r u poole.
+Virgult läbi Viru poole.
 
 Sammusida sirutelles
 
@@ -217,7 +217,7 @@ Linnupetteks võttis leiba,
 
 Kostis kõrgemalta kuuselt
 
-H a r a k a laul tema kõrva,
+Haraka laul tema kõrva,
 
 Kes seal sulgi silitelles
 
@@ -347,7 +347,7 @@ Kus ei kuskil kinnitusi
 
 Ega sammul sidendusi,
 
-Jõudis vastu I l ma j ä r v i.
+Jõudis vastu Ilmajärvi.
 
 Kaldal mõtles kangelane:
 
@@ -359,7 +359,7 @@ Kallist aega kulutama?
 
 Pääsin õnnelt Peipsist läbi,
 
-Sõudsin üle S o o m e m e r e,
+Sõudsin üle Soomemere,
 
 Mis siin viitu mudalombist?
 
@@ -421,7 +421,7 @@ Kõntsa pika koibadesta,
 
 Siis aga jälle sammusida
 
-V i r u poole veeretama.
+Viru poole veeretama.
 
 Äge päikese palav
 
@@ -607,7 +607,7 @@ Leian sinu ligimailta,
 
 Karistan sind kaugemalta,
 
-T o l l a - h o l l a ! p i l l a - v i l l a!
+Tolla - holla! pilla - villa!
 
 Nüüd sa oled valu saanud.
 
@@ -633,7 +633,7 @@ Tõttas teeda tallamaie,
 
 Seadis jõudsalt sammusida
 
-V i r u poole veeretama.
+Viru poole veeretama.
 
 Metsavarjul võttis meesi
 
@@ -673,7 +673,7 @@ Siis aga jälle sammumaie.
 
 Käänas teelta kurakäele
 
-Otse E n d l a j ä r v e äärde,
+Otse Endlajärve äärde,
 
 Sammus siis silmasihilla
 
@@ -817,7 +817,7 @@ Vana karu kamarada,
 
 Põhjas kotka pesamuna -
 
-Sest saab S a r v i k õhtuservet,
+Sest saab Sarvik õhtuservet,
 
 Vanamoori mokakastet,
 
@@ -841,7 +841,7 @@ Sealt saab saia sõsaraile,
 
 Närvatoitu neidudelle."
 
-K a l e v i p o e g pajatama:
+Kalevipoeg pajatama:
 
 "Toho, tondilaste kokad,
 
@@ -855,7 +855,7 @@ Kentsakamat leemekeetu
 
 Ei võind sortsi sobitada,
 
-T u u s l a r ise toimetada!"
+Tuuslar ise toimetada!"
 
 Üks neist meestest mõistis kohe,
 
@@ -1153,17 +1153,17 @@ Kurvastusi kahandama,
 
 Pisaraida pillutama!
 
-Tuleks p ä i k e-peiukene,
+Tuleks päike-peiukene,
 
 Piigasida päästemaie;
 
-Tuleks k u u kui kosilane
+Tuleks kuu kui kosilane
 
 Neiukesi naljatama,
 
 Leinapõlvest lunastama,
 
-Tuleks t ä h t i-poisikene
+Tuleks tähti-poisikene
 
 Tuvikesi tahtemaie,
 
@@ -1691,7 +1691,7 @@ Piigakene pajatelles
 
 Kübarada kiitemaie:
 
-"See′ p see kübar maksab kallis,
+"see′p see kübar maksab kallis,
 
 Maksab määratuma hinna,
 

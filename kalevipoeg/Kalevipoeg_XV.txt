@@ -99,11 +99,11 @@ Penid meest ei aja pakku,
 
 Koerad rõõmukäigilt metsa!
 
-Haugub M u s t i külamurult,
+Haugub Musti külamurult,
 
 Krantsikene karjamaalta,
 
-T u k s u külatänavasta:
+Tuksu külatänavasta:
 
 Mees ei koeri meelitama,
 
@@ -137,7 +137,7 @@ Sammusida sõlmimassa,
 
 Kiiret käiki kütkendamas.
 
-T ü h i-taati, see tulekse
+Tühi-taati, see tulekse
 
 Seitsmekümne selli seltsis
 
@@ -145,7 +145,7 @@ Kalevida kiusamaie;
 
 Tahtis kälimehe tüli,
 
-S a r v e-taadi segadusta
+Sarve-taadi segadusta
 
 Mehepojal ära maksta,
 
@@ -181,7 +181,7 @@ Kullakoorma kandijalle;
 
 Vetta taha vaenlastelle,
 
-S a r v i k-taadi sellidelle!"
+Sarvik-taadi sellidelle!"
 
 Kuidas piiga pajatanud,
 
@@ -233,9 +233,9 @@ Kustap meri murudelle,
 
 Lained tulnud lagedalle?
 
-Vana T ü h i küsimaie:
+Vana Tühi küsimaie:
 
-"K a l e v i p o e g, kulla venda,
+"Kalevipoeg, kulla venda,
 
 Kas sa viisid kodukanad,
 
@@ -261,7 +261,7 @@ Kudruskaelad kosjateele,
 
 Peiuratsu radadelle."
 
-T ü h i teist kord′ küsima:
+Tühi teist kord′ küsima:
 
 "Kalevipoeg, kulla venda,
 
@@ -289,7 +289,7 @@ Kust, kui kontisid ei murdnud,
 
 Süüd ei mulle sündinegu!"
 
-T ü h i jälle küsimaie,
+Tühi jälle küsimaie,
 
 Pikemalta pärimaie:
 
@@ -323,7 +323,7 @@ Kus, kui kirp ei äratanud,
 
 Memmekene praegu magab."
 
-T ü h i-taati küsimaie,
+Tühi-taati küsimaie,
 
 Asja otsust ajamaie:
 
@@ -333,7 +333,7 @@ Kas ehk võtsid mõõga varnast,
 
 Salamahti sõjasaha,
 
-Riisusid S a r v i k u raua?"
+Riisusid Sarviku raua?"
 
 Kalev mõistis, kostis vastu,
 
@@ -357,7 +357,7 @@ Mees ei maksa mõõga väeta
 
 Ega mõõkagi meheta."
 
-T ü h i jälle küsimaie,
+Tühi jälle küsimaie,
 
 Pikemalta pärimaie:
 
@@ -391,7 +391,7 @@ Soovikübar söeks põlenud,
 
 Tuisanud juba tuhaksi."
 
-T ü h i-taati küsimaie,
+Tühi-taati küsimaie,
 
 Pikemalta pärimaie:
 
@@ -441,7 +441,7 @@ Võtsin koorma vana vara,
 
 Kuue vaka võrra kulda."
 
-T ü h i jälle küsimaie,
+Tühi jälle küsimaie,
 
 Asja otsust ajamaie:
 
@@ -465,7 +465,7 @@ Võim ei lähe vitsa võtma,
 
 Ramm ei raagu varastama."
 
-T ü h i-taati küsimaie,
+Tühi-taati küsimaie,
 
 Pikemalta pärimaie:
 
@@ -495,7 +495,7 @@ Masajalgel mängidessa
 
 Salamahti sobitanud."
 
-T ü h i viimaks küsimaie,
+Tühi viimaks küsimaie,
 
 Asjalugu ajamaie:
 
@@ -527,7 +527,7 @@ Talitan ehk vanad tülid
 
 Ühes uute võlgadega."
 
-Siisap tormas T ü h j a-taati
+Siisap tormas Tühja-taati
 
 Seitsmekümne selli seltsis
 
@@ -629,9 +629,9 @@ Seni oli raske sõda,
 
 Vereahne vaenuvanker
 
-V i r u s viletsusevaeva,
+Virus viletsusevaeva,
 
-A l u t a g a hädaohtu,
+Alutaga hädaohtu,
 
 Surma rasket sünnitanud.
 
@@ -961,7 +961,7 @@ Varjupaika valmistada,
 
 Kindlust sõja kimbutusel."
 
-K a l e v i p o e g mõistis kohe,
+Kalevipoeg mõistis kohe,
 
 Kostis vastu kavalasti:
 
@@ -1035,7 +1035,7 @@ Nelja neitsi nurmedella,
 
 Viie võõra väljadella.
 
-Tulin hilja T a a r a mäelta,
+Tulin hilja Taara mäelta,
 
 Pika ilu pidudelta,
 
@@ -1063,7 +1063,7 @@ Kindla koha kasvataja,
 
 Tugeva torni tegija
 
-O l e v i p o e g, hoonetarka,
+Olevipoeg, hoonetarka,
 
 Teda tulnud teretama,
 
@@ -1079,7 +1079,7 @@ Et ei hiljem tõuseks tüli,
 
 Vaenulikke vaheasju.
 
-O l e v i p o e g, hoonetarka,
+Olevipoeg, hoonetarka,
 
 Tõotanud linna teha,
 
@@ -1119,7 +1119,7 @@ Kolme päeva pidand paastu
 
 Ilma eineivakesta,
 
-U k u kivil ohverdanud,
+Uku kivil ohverdanud,
 
 Koidupiirdel kummardanud,
 
@@ -1177,11 +1177,11 @@ Mis seal müüri tehtanekse,
 
 Seinasida säetakse
 
-V i r u kuuskede vilulla,
+Viru kuuskede vilulla,
 
-L ä ä n e leppade vahella,
+Lääne leppade vahella,
 
-H a r j u haabade keskella!
+Harju haabade keskella!
 
 Sinna loodi lustilinna,
 
@@ -1209,13 +1209,13 @@ Kalev kandis koormakaupa
 
 Linna tarbeks laudasida
 
-Pikal teel P e i p s i tagant,
+Pikal teel Peipsi tagant,
 
 Kandis kokku tarbepuida,
 
 Tüvikuida tuhandeida
 
-Vana T a a r a tammikusta,
+Vana Taara tammikusta,
 
 Kandis kive kaugemalta,
 
@@ -1281,7 +1281,7 @@ Magamise pikkust mõistnud,
 
 Mis tal aega viivitanud.
 
-K a l e v i p o e g pajateli:
+Kalevipoeg pajateli:
 
 "Võta, armas vennikene,
 
@@ -1295,11 +1295,11 @@ Küll ehk juhtub kosilane
 
 Koidu eella teile käima,
 
-V i r u poissi võttemaie,
+Viru poissi võttemaie,
 
-H a r j u poissi ahvatama,
+Harju poissi ahvatama,
 
-L ä ä n e poissi lunastama!"
+Lääne poissi lunastama!"
 
 Alevite armas poega
 
@@ -1313,7 +1313,7 @@ Kes kui hernekaunakene,
 
 Oakene õitses õuel.
 
-S u l e v i p o e g, sugulane,
+Sulevipoeg, sugulane,
 
 Valitses vanema piiga
 
@@ -1417,7 +1417,7 @@ Kes see kurbust kustutama,
 
 Leina tuleb lepitama?
 
-A l u t a g a elas tarka,
+Alutaga elas tarka,
 
 Laialt teatud tuuletarka,
 
@@ -1427,11 +1427,11 @@ Tarkust käisid tabamassa,
 
 Ohus abi otsimassa.
 
-See′ p see neitsikese nuttu,
+see′p see neitsikese nuttu,
 
 Leina tahtis lõpetada.
 
-T u u s l a r oli toa teinud,
+Tuuslar oli toa teinud,
 
 Elumaja ehitanud
 
@@ -1501,7 +1501,7 @@ Tuulissaarest tuuseldajad,
 
 Soomesta soolapuhujad.
 
-T u u s l a r ise, tuuletarka,
+Tuuslar ise, tuuletarka,
 
 Kui ta kaugel kõndinekse,
 
@@ -1649,7 +1649,7 @@ Kellel′ vihad veeretama,
 
 Muretujud tunnistama?
 
-T u u s l a r mõtles, tuuletarka:
+Tuuslar mõtles, tuuletarka:
 
 "Õnnetund on mulle tulnud,
 
@@ -1669,7 +1669,7 @@ Et ei vaene kiljatama,
 
 Appi saand ei hüüdemaie.
 
-T u u s l a r tõttas kodu poole,
+Tuuslar tõttas kodu poole,
 
 Tahtis saaki varju taha,
 
@@ -1717,9 +1717,9 @@ Käänas kiirest′ kodu poole
 
 Sõpradelle sõnaldama.
 
-S u l e v i p o e g sõitis sõtta,
+Sulevipoeg sõitis sõtta,
 
-A l e v i p o e g vaenuteele,
+Alevipoeg vaenuteele,
 
 Sõbrad surmaradadelle;
 
@@ -1749,7 +1749,7 @@ Paati saada parajada,
 
 Miska üle lainte minna.
 
-A l e v i p o e g, armas venda,
+Alevipoeg, armas venda,
 
 Kes see kodunt õnnekorral
 
@@ -1809,7 +1809,7 @@ Kena koja kadumista
 
 Ohkab tuulehoogudelle.
 
-O l e v i p o e g, hoonetarka,
+Olevipoeg, hoonetarka,
 
 Kosind hiljem kolmandama
 
